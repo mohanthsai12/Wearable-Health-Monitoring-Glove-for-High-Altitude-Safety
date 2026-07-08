@@ -52,7 +52,8 @@ This project combines embedded systems, biomedical sensors, and wireless communi
 
 ## System Architecture
 
-The system architecture consists of three major layers. The sensing layer includes the MAX30102 sensor for measuring heart rate and blood oxygen levels, along with the LM35 temperature sensor for monitoring body temperature. The processing layer uses an ESP32 microcontroller to collect sensor data, analyze health parameters, and determine whether the readings fall within safe operating limits. The output layer consists of an OLED display for real-time visualization, a buzzer for emergency alerts, and Bluetooth communication that sends health information directly to a mobile application for remote monitoring. 
+The system architecture consists of three major layers. The sensing layer includes the MAX30102 sensor for measuring heart rate and blood oxygen levels, along with the LM35 temperature sensor for monitoring body temperature. The processing layer uses an ESP32 microcontroller to collect sensor data, analyze health parameters, and determine whether the readings fall within safe operating limits. The output layer consists of an OLED display for real-time visualization, a buzzer for emergency alerts, and Bluetooth communication that sends health information directly to a mobile application for remote monitoring.
+
 ---
 
 ## Applications
