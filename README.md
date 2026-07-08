@@ -82,7 +82,10 @@ The Wearable IoT-Based Health Monitoring Glove demonstrates the effective integr
 - Tippireddy Manoj Reddy 
 
 
+Department of Electronics and Communication Engineering
+
 SRM University AP
+
 
 ---
 
