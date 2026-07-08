@@ -78,6 +78,8 @@ The Wearable IoT-Based Health Monitoring Glove demonstrates the effective integr
 
 **Darapu Mohanth Sai Dinesh Reddy**
 
+**Rayapati Siva**
+
 SRM University AP
 
 ---
