@@ -6,7 +6,6 @@ Developed a wearable IoT-based health monitoring glove using ESP32, MAX30102, an
 ## Overview
 
 The Wearable IoT-Based Health Monitoring Glove is an embedded healthcare solution developed to improve safety in high-altitude environments. The system continuously monitors vital physiological parameters, including heart rate, oxygen saturation (SpO₂), and body temperature, using integrated biomedical sensors. The collected data is processed by an ESP32 microcontroller, displayed on an OLED screen, and wirelessly transmitted to a smartphone through Bluetooth. By providing instant health status updates and alerts, the device enables early detection of altitude-related health issues while remaining portable, lightweight, and cost-effective. 
-
 ---
 
 ## Project Objective
